@@ -1,0 +1,2 @@
+# Curriculum-Based-Multi-Modal-Masked-Transformer-Network-CMMTN-Positive-Unlabeled-Fake-News-Detection
+This repository contains my implementation of the CMMTN model for positive–unlabeled fake news detection, using BERT for text, ResNet for images, and a multi-modal masked transformer. All components are fully implemented by myself based on the paper by Jinguang Wang and developed independently of the original authors.
